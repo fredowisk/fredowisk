@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 <br>
 
-- 🔭 I’m currently working on [Amazon Web Services](https://github.com/fredowisk/AWS-Streams)
-
 - 🌱 I’m currently learning **AWS, Docker, NodeJS and Serverless**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fredowisk?tab=repositories](https://github.com/fredowisk?tab=repositories)
