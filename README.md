@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **souofred.developer@gmail.com**
 
-- 🐱‍🏍 Visit my portfolio [here]([https://fredowisk.github.io/](https://portfolio-nine-liard-56.vercel.app))
+- 🐱‍🏍 Visit my portfolio [here](https://portfolio-nine-liard-56.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
