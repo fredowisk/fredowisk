@@ -1,20 +1,20 @@
-<h1 align="center">Hi <a href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" target="blank"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="hand" height="30" width: "46"/></a>, I'm Frederico Parreira</h1>
+<h1 align="center">Hi 👋🏻</a>, I'm Frederico Parreira</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 <br>
 
-- 🌱 I’m currently learning **AWS, Docker, NodeJS and Serverless**
+- 🌱 I’m currently learning **Ansible, Java, NestJS and NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fredowisk?tab=repositories](https://github.com/fredowisk?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/fredowisk?tab=repositories)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, NoSQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, NoSQL, NodeJS**
 
-- 📫 How to reach me **souofred.developer@gmail.com**
+- 📫 How to reach me: **souofred.developer@gmail.com**
 
 - 🐱‍🏍 Visit my portfolio [here](https://portfolio-nine-liard-56.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fredparreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredparreira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fredparreira" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fredparreira" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
